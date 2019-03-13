@@ -18,6 +18,6 @@
   display: none;
 }
 
-div#wall div.parent #tag-5.slick{
-  display.none
+#wall div.parent div#tag-5.slick {
+  display: none;
 }
